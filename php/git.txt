@@ -13,4 +13,4 @@ git push
 hello
 
 ***************************************************
-git set url origin https://github.com/webimran/phpm-course.git
+git remote set-url origin https://github.com/webimran/phpm-course.git
