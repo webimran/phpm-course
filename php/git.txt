@@ -10,3 +10,7 @@ git push -u origin main
 git add .
 git commit -m "comment"
 git push
+hello
+
+***************************************************
+git set url origin https://github.com/webimran/phpm-course.git
