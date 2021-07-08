@@ -14,3 +14,6 @@ hello
 
 ***************************************************
 git remote set-url origin https://github.com/webimran/phpm-course.git
+
+*****************************************************
+https://github.com/joshnh/Git-Commands
